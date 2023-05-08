@@ -1,2 +1,2 @@
 # Calculator-java-Netbeans
-this is a java UI calculator made in netbeans. 
+this is just a java UI calculator made in netbeans. 
